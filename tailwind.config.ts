@@ -13,8 +13,8 @@ const config: Config = {
         Orange: "hsl(25, 97%, 53%)",
         // Neutral
         lightGray: "hsl(215, 8%, 43%)",
-        DarkBlue: "hsl(220, 20%, 18%)",
-        VeryDarkBlue: "hsl(228, 11%, 9%)",
+        DarkBlue: "hsl(215, 21%, 16%)",
+        VeryDarkBlue: "hsl(220, 11%, 9%)",
       },
       fontSize: {
         paragraph: "0.938rem",

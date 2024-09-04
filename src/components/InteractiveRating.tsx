@@ -62,7 +62,7 @@ const InteractiveRating = () => {
             type="submit"
             value="SUBMIT"
             isDisable={isDisable}
-            className="bg-Orange rounded-2xl py-4  font-semibold opacity-95 text-VeryDarkBlue"
+            className="bg-Orange rounded-3xl py-3  font-semibold opacity-95 text-VeryDarkBlue"
             handleClick={handleSubmit}
           />
         </div>
